@@ -1,1 +1,13 @@
-{}
+{
+  "users": [
+    {
+      "username": "shuha",
+      "email": "shuh@gami.com",
+      "password": "123",
+      "isDoctor": true,
+      "id": 1
+    }
+  ],
+  "doctor":[],
+  "appointments":[]
+}
